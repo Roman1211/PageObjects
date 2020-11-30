@@ -8,6 +8,6 @@ public class AddToCartTest extends BaseTest{
             app.addItemToCart();
         }
         app.deleteItems();
-        //app.quit();
+        app.quit();
     }
 }
